@@ -111,7 +111,7 @@ GEM
     httparty (0.20.0)
       mime-types (~> 3.0)
       multi_xml (>= 0.5.2)
-    i18n (1.8.10)
+    i18n (1.8.11)
       concurrent-ruby (~> 1.0)
     interception (0.5)
     jbuilder (2.11.2)
@@ -146,7 +146,7 @@ GEM
     mime-types-data (3.2021.0901)
     mini_mime (1.1.2)
     mini_portile2 (2.6.1)
-    minitest (5.14.4)
+    minitest (5.15.0)
     msgpack (1.4.2)
     multi_xml (0.6.0)
     nio4r (2.5.8)
@@ -156,7 +156,7 @@ GEM
     nokogiri (1.12.5-x86_64-darwin)
       racc (~> 1.4)
     pg (1.2.3)
-    pg_search (2.3.5)
+    pg_search (2.3.6)
       activerecord (>= 5.2)
       activesupport (>= 5.2)
     pry (0.13.1)
@@ -282,7 +282,7 @@ GEM
     websocket-extensions (0.1.5)
     xpath (3.2.0)
       nokogiri (~> 1.8)
-    zeitwerk (2.4.2)
+    zeitwerk (2.5.3)
 
 PLATFORMS
   ruby
